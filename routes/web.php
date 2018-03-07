@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/azaz', function () {
+//    return view('pizdec');
+    var_dump(Config::get('app.locale'));
+});

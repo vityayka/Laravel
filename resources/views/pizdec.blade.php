@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Pizda
+                    IDI NAHUY CYKA ZAVALI EBALO BLYAT
                 </div>
 
                 <div class="links">

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Azaz\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
